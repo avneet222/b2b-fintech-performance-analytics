@@ -5,15 +5,15 @@ A XYZ company is building its analytics capability at the Founders Office level 
 
 Business Questions Answered
 
-Q1: How does the user funnel look from registration to activation — and which acquisition channels convert best?
+Q1: How does the user funnel look from registration to activation and which acquisition channels convert best?
 
 Q2: Which states and business segments drive the most transactions and GTV?
 
-Q3: What is the churn profile — and at what stage do users disengage?
+Q3: What is the churn profile and at what stage do users disengage?
 
 Q4: How have monthly transaction volumes and GTV evolved across FY 2023-24?
 
-Q5: What is the overall transaction quality — and is the success rate a concern?
+Q5: What is the overall transaction quality and is the success rate a concern?
 
 Q6: How do discounts impact revenue, and which segments receive the most discounts?
 
