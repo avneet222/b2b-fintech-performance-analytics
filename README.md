@@ -24,11 +24,13 @@ Dataset Overview
 # Q1 — User Funnel & Acquisition Channel Analysis
 Part A: Registration to Activation Funnel
 The user journey on BharatNXT follows a four-stage funnel from registration through KYC completion, account activation, and sustained activity. The analysis reveals strong early-stage conversion but significant attrition at the activation-to-active stage.
+
 <img width="470" height="95" alt="Screenshot 2026-04-11 at 13 05 42" src="https://github.com/user-attachments/assets/229c546f-ce4d-49e0-a0cc-cadd267cccfe" />
 <img width="443" height="291" alt="image" src="https://github.com/user-attachments/assets/c9603101-4c46-43a5-8e2a-1220e48beca4" />
 
 Part B: Acquisition Channel Conversion Analysis
 Seven referral channels were evaluated on their conversion rate from sign-up to account activation. This reveals which channels attract genuinely high-intent users.
+
 <img width="471" height="140" alt="Screenshot 2026-04-11 at 13 06 03" src="https://github.com/user-attachments/assets/f74c6091-c5b7-49c3-867a-6dfabda9dc6c" />
 <img width="444" height="217" alt="image" src="https://github.com/user-attachments/assets/41c26192-be2d-46f7-9294-ebc4c220b7a0" />
 
@@ -55,6 +57,7 @@ Recommendations
 •	A/B test the App Store listing and onboarding flow to close the gap with Play Store conversion.
 # Q2a — Geographic Analysis: State-wise Performance
 The geographic breakdown reveals significant variation in registration volume, activation rates, and GTV across 10 states — enabling targeted resource allocation for sales and marketing teams.
+
 <img width="667" height="172" alt="Screenshot 2026-04-11 at 13 29 04" src="https://github.com/user-attachments/assets/8d610fb3-6719-4618-8839-c5b82106a3e5" />
 <img width="521" height="252" alt="image" src="https://github.com/user-attachments/assets/b89bbf28-b7f1-42ba-8e2e-f2ffe45598f8" />
 
@@ -79,6 +82,7 @@ Recommendations
 •	Prioritise West Bengal for a pilot partner channel program — organic reach is clearly insufficient.
 # Q2b — Business Segment Analysis
 12 business segments were analysed on activation rate and average GTV per user, revealing which segments are the most valuable and which present the largest growth opportunities.
+
 <img width="546" height="200" alt="Screenshot 2026-04-11 at 13 29 30" src="https://github.com/user-attachments/assets/2d3c8a88-3bb2-4fc5-af15-7f6fbe4f17dd" />
 <img width="518" height="238" alt="image" src="https://github.com/user-attachments/assets/1ec69f47-018f-49d7-bac2-db3dbd6889ce" />
 
@@ -109,6 +113,7 @@ Churn is defined as a user whose last transaction date was more than 60 days bef
 <img width="362" height="77" alt="Screenshot 2026-04-11 at 13 41 17" src="https://github.com/user-attachments/assets/7dd2bc6f-48d0-456d-8327-82073dcb37ab" />
 
 Churn by Acquisition Channel
+
 <img width="432" height="121" alt="Screenshot 2026-04-11 at 13 41 37" src="https://github.com/user-attachments/assets/c6132be2-1032-4ad3-bc23-fa82048698bc" />
 <img width="445" height="244" alt="image" src="https://github.com/user-attachments/assets/b78542de-bc3e-465e-835b-e1a76d198598" />
 
@@ -124,6 +129,7 @@ Key Insights
 
 Part B: Shallow Churn — Early Dropout Analysis
 Shallow churn identifies users who placed only 1-2 txns before going dormant, they tried the platform but failed to find enough value to continue.
+
 <img width="561" height="152" alt="Screenshot 2026-04-11 at 13 48 47" src="https://github.com/user-attachments/assets/e971e29b-44df-4ba5-813f-62d70805ba92" />
 <img width="388" height="217" alt="image" src="https://github.com/user-attachments/assets/5ed64eec-6a9f-49ab-b8e8-2500f26858e2" />
 
@@ -177,6 +183,7 @@ Recommendations
 # Q5 — Transaction Quality & Success Rate Analysis
 Success Rate by Payment Mode
 Transaction quality was evaluated across both payment modes — Classic (T+3) and Instant (Same Day) — to determine whether mode is a driver of success or failure.
+
 <img width="660" height="78" alt="Screenshot 2026-04-11 at 14 02 32" src="https://github.com/user-attachments/assets/88ba4532-115b-4b43-aa13-8a532dd0323d" />
 <img width="595" height="215" alt="Screenshot 2026-04-11 at 14 02 47" src="https://github.com/user-attachments/assets/d4d90f3d-86c8-468b-b0af-645430b632ec" />
 <img width="447" height="224" alt="image" src="https://github.com/user-attachments/assets/ebf05304-1fee-48ec-a9a4-517fca3ac000" />
@@ -205,6 +212,7 @@ Recommendations
 
 •	Tag failed transactions by failure reason (bank decline, insufficient limit, gateway timeout) to prioritise the fix roadmap.
 # Q6 — Pricing, Discounts & Revenue Analysis
+
 <img width="528" height="78" alt="Screenshot 2026-04-11 at 14 11 45" src="https://github.com/user-attachments/assets/d21327e2-c64d-4d1b-a3da-d6008943b270" />
 <img width="376" height="93" alt="Screenshot 2026-04-11 at 14 20 24" src="https://github.com/user-attachments/assets/1baee107-3e8a-4961-8cfa-6a5a646aa48f" />
 <img width="527" height="213" alt="Screenshot 2026-04-11 at 14 12 49" src="https://github.com/user-attachments/assets/1b9bcc2c-a0d3-415b-a9b3-e52fb49d45ba" />
@@ -228,10 +236,12 @@ KEY INSIGHTS
 
 # Strategic Recommendations Summary
 The following recommendations are prioritised based on revenue impact, feasibility, and urgency. They span product, growth, and operations functions.
+
 <img width="575" height="290" alt="Screenshot 2026-04-11 at 14 36 10" src="https://github.com/user-attachments/assets/0c508134-c8eb-4d1a-8b5a-667d47900d32" />
 
 # Data Quality & Assumptions
 The following assumptions were applied during data preparation and analysis:
+
 <img width="804" height="108" alt="Screenshot 2026-04-11 at 14 51 32" src="https://github.com/user-attachments/assets/0c0064da-f457-4815-8946-1411bcd399a3" />
 
 
