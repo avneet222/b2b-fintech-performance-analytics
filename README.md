@@ -1,4 +1,4 @@
-<img width="468" height="69" alt="image" src="https://github.com/user-attachments/assets/293f8c85-15d5-4f80-b97a-679510618dca" /><img width="864" height="56" alt="Screenshot 2026-04-11 at 13 01 12" src="https://github.com/user-attachments/assets/273ed56e-a1f8-46b8-90a0-5228e5b159b6" />
+ <img width="864" height="56" alt="Screenshot 2026-04-11 at 13 01 12" src="https://github.com/user-attachments/assets/273ed56e-a1f8-46b8-90a0-5228e5b159b6" />
 
 # Case Study Objective
 A XYZ company is building its analytics capability at the Founders Office level and needs to understand how users move through the platform from registration to active transacting users, which segments and geographies drive the most value, and where product and business interventions can maximise growth and retention.
