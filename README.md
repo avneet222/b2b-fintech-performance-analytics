@@ -237,7 +237,7 @@ KEY INSIGHTS
 # Strategic Recommendations Summary
 The following recommendations are prioritised based on revenue impact, feasibility, and urgency. They span product, growth, and operations functions.
 
-<img width="575" height="290" alt="Screenshot 2026-04-11 at 14 36 10" src="https://github.com/user-attachments/assets/0c508134-c8eb-4d1a-8b5a-667d47900d32" />
+<img width="571" height="288" alt="Screenshot 2026-04-11 at 19 02 45" src="https://github.com/user-attachments/assets/187e6048-bb85-4584-9010-fd29e33f36fa" />
 
 # Data Quality & Assumptions
 The following assumptions were applied during data preparation and analysis:
