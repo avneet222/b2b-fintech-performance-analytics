@@ -150,6 +150,7 @@ Recommendations
 •	Build a 'streak' or loyalty mechanic for users approaching 20 transactions to push them into the 21+ habitual segment.
 # Q4 — Monthly Transaction Volume & GTV Trends
 Monthly trends across FY 2023-24 reveal a platform still in the growth phase, with strong Q2 performance and a notable activation surge in Q4 (Jan-Mar 2024).
+
 <img width="429" height="228" alt="Screenshot 2026-04-11 at 13 57 10" src="https://github.com/user-attachments/assets/5acdd74b-3d91-4905-90db-d5c51649f9a1" />
 <img width="452" height="219" alt="image" src="https://github.com/user-attachments/assets/21c743ef-2685-44e9-856a-c8cb2679a41e" />
 <img width="454" height="227" alt="image" src="https://github.com/user-attachments/assets/0c477a81-3e1f-4a39-ba44-b68216a16e13" />
