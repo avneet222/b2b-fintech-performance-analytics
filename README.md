@@ -214,15 +214,15 @@ Recommendations
 # Q6 — Pricing, Discounts & Revenue Analysis
 
 <img width="528" height="78" alt="Screenshot 2026-04-11 at 14 11 45" src="https://github.com/user-attachments/assets/d21327e2-c64d-4d1b-a3da-d6008943b270" />
-<img width="376" height="93" alt="Screenshot 2026-04-11 at 14 20 24" src="https://github.com/user-attachments/assets/1baee107-3e8a-4961-8cfa-6a5a646aa48f" />
+<img width="374" height="93" alt="Screenshot 2026-04-11 at 18 48 12" src="https://github.com/user-attachments/assets/ad127902-1696-4b52-9d9a-eca24136f915" />
 <img width="527" height="213" alt="Screenshot 2026-04-11 at 14 12 49" src="https://github.com/user-attachments/assets/1b9bcc2c-a0d3-415b-a9b3-e52fb49d45ba" />
 <img width="520" height="236" alt="image" src="https://github.com/user-attachments/assets/8b46df1e-d4e3-4ac3-8be0-f0c457ec807a" />
 
 KEY INSIGHTS
 
-• ~ 32% of transactions are discounted.
+• ~ 1.7% of transactions are discounted.
 
-• Revenue foregone is ₹10 Cr (~ 32% of potential revenue) — significant amount.
+• Revenue foregone is ₹51 lacs (~ 1.7% of potential revenue) — significant amount.
 
 • Avg transaction amount is marginally lower for discounted txns (₹5.20L vs ₹5.36L) — discounts are NOT reserved for big tickets.		
 
